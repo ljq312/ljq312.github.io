@@ -1,0 +1,61 @@
+---
+title: "About Me"
+---
+<br>
+
+### Education
+***
+##### Columbia University   |   Mailman School of Public Health  |  Expected May 2019
+* *M.S. Biostatistics*
+    + Coursework included data science, statistical inference, and survival analysis.
+    
+##### University of Washington   |   Seattle   |   December 2013
+* *B.A. Psychology, B.A. Economics*
+* *Honors:* Dean’s List 6 semesters, Cum Laude
+
+<br>
+
+### Experience
+***
+##### Research Assistant | Behavioral Research & Therapy Clinics | March 2012 – August 2013
+* Conducted Psychological and cognitive impairment assessment to assist in determining course of intervention for suicidal individuals in crisis.
+* Collected, analyzed, and created reports from experimental data using SPSS.
+* Led seminars in lab of research and therapy clinic, discussed cases, research, and assessments relating to suicide, and academic research.
+
+##### Global Department Manager | Hefei Zhenghong Training School, China | January 2015 – June 2017
+* **U.S. Summer Camp Program – Program Manager**, generating profit of $30,000/year.  The camp brings 30 students from China to the U.S., with budget of $3500 per person, to participate in intercultural camping experience using their English skills. 
+    + Pre-departure: Planning the program and exploring how the program is positioned based on market demand and other research of comparable programs.
+    + In-trip: Leading group; assisting American local camp partner.
+    + After-trip: Creating satisfaction survey; analyzing and acting on data.
+    
+##### Volunteer | Anhui Medical University | July 2016
+* Presented “Harms of Smoking” to Muchang Community.
+* Assessed medical residents’ health through measuring key health indicators, processed health-related standardized questionnaire.  
+
+<br>
+
+### Skills
+***
+##### Group Leadership in Educational Institutions 
+* Seminar preparation
+* Objective-based Program Management
+* Experimental design, data collection, analysis and reporting to support decisions and actions
+
+##### Software
+* R programming
+* SPSS
+* Microsoft Word, Excel, and PowerPoint
+
+##### Languages
+* Chinese
+* English
+
+
+
+
+
+
+
+
+
+
