@@ -4,6 +4,5 @@ title: "Jiaqi Li"
 
 ### This is my personal webpage!
 
-And I can put all kinds of stuff on it!
 
-upload a pic here
+<img src="picture.JPG" style="width:80%">
