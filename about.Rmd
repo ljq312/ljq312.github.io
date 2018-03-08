@@ -1,61 +1,26 @@
 ---
-title: "About Me"
+title: "Projects and Homeworks"
 ---
 <br>
 
-### Education
+### Projects
 ***
-##### Columbia University   |   Mailman School of Public Health  |  Expected May 2019
-* *M.S. Biostatistics*
-    + Coursework included data science, statistical inference, and survival analysis.
+##### Biostatistical Methods
+*	Identified variables associated with hospital length of stay (LoS) patterns to construct a predictive model using Multiple Linear Regression with R and SAS.
+*	Ran rigorous model diagnostics (influential point, collinearity, interaction...) and model validation (Cross-Validation, bootstrap).
+* Report is available [here](Downloads/BMI_Final_Project_Report.pdf), and repo is available [here](https://github.com/ljq312/BMI_FinalProject)
+
     
-##### University of Washington   |   Seattle   |   December 2013
-* *B.A. Psychology, B.A. Economics*
-* *Honors:* Dean’s List 6 semesters, Cum Laude
+##### Data Science - *Flight Delay Patterns*
+*	Explored factors associated with flight delay patterns from 2012 through 2016 using R.
+*	Manipulated 2.8GB of data, and analyzed 30 million flights.
+*	Created a [Github website](https://tuyuqi.github.io/delay_flight_website/index.html) to display project findings, including a [report](https://tuyuqi.github.io/delay_flight_website/flight_delay.html), [video](https://www.youtube.com/watch?v=smI6NE5xw4Y), and interactive data visuals made by Plotly and ggplot.
+
 
 <br>
 
-### Experience
+### Homeworks
 ***
-##### Research Assistant | Behavioral Research & Therapy Clinics | March 2012 – August 2013
-* Conducted Psychological and cognitive impairment assessment to assist in determining course of intervention for suicidal individuals in crisis.
-* Collected, analyzed, and created reports from experimental data using SPSS.
-* Led seminars in lab of research and therapy clinic, discussed cases, research, and assessments relating to suicide, and academic research.
-
-##### Global Department Manager | Hefei Zhenghong Training School, China | January 2015 – June 2017
-* **U.S. Summer Camp Program – Program Manager**, generating profit of $30,000/year.  The camp brings 30 students from China to the U.S., with budget of $3500 per person, to participate in intercultural camping experience using their English skills. 
-    + Pre-departure: Planning the program and exploring how the program is positioned based on market demand and other research of comparable programs.
-    + In-trip: Leading group; assisting American local camp partner.
-    + After-trip: Creating satisfaction survey; analyzing and acting on data.
-    
-##### Volunteer | Anhui Medical University | July 2016
-* Presented “Harms of Smoking” to Muchang Community.
-* Assessed medical residents’ health through measuring key health indicators, processed health-related standardized questionnaire.  
-
-<br>
-
-### Skills
-***
-##### Group Leadership in Educational Institutions 
-* Seminar preparation
-* Objective-based Program Management
-* Experimental design, data collection, analysis and reporting to support decisions and actions
-
-##### Software
-* R programming
-* SPSS
-* Microsoft Word, Excel, and PowerPoint
-
-##### Languages
-* Chinese
-* English
-
-
-
-
-
-
-
-
-
+##### Data Science - *Shiny Dashboard with NYC restaurant inspection data*
+* Created a interactable [shiny dashboard](https://ljq312.shinyapps.io/p8105_hw6_jl5025_problem2/) to visualize the NYC restaurant grade and violation description based on boro and cuisine type. 
 

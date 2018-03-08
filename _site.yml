@@ -1,13 +1,19 @@
-name: "Yay internet!"
+name: "Jiaqi's Website"
 output_dir: "."
 navbar:
   title: "Home"
+  type: default
   right:
-    - text: "About Me"
+    - text: "Projects & Homeworks"
       href: about.html
+    - text: "About Me"
+      href: teaching.html
     - icon: fa-envelope fa-lg
-      href: mailto:<jl5025@cumc.columbia.edu>
-    - icon: fa-github fa-lg
+      href: mailto:<jl5025@columbia.edu>
+    - icon: fa-github fa-lg 
       href: http://github.com/ljq312/
+
 output:
-  html_document
+  html_document:
+    theme: lumen
+    css: styles.css

@@ -15,13 +15,13 @@
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
@@ -31,10 +31,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -67,6 +69,7 @@ h6 {
 }
 </style>
 
+<link rel="stylesheet" href="styles.css" type="text/css" />
 
 </head>
 
@@ -98,34 +101,34 @@ button.code-folding-btn:focus {
 <style type="text/css">
 /* padding for bootstrap navbar */
 body {
-  padding-top: 51px;
+  padding-top: 54px;
   padding-bottom: 40px;
 }
 /* offset scroll position for anchor links (for fixed navbar)  */
 .section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 59px;
+  margin-top: -59px;
 }
 
 .section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 59px;
+  margin-top: -59px;
 }
 .section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 59px;
+  margin-top: -59px;
 }
 .section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 59px;
+  margin-top: -59px;
 }
 .section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 59px;
+  margin-top: -59px;
 }
 .section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 59px;
+  margin-top: -59px;
 }
 </style>
 
@@ -180,10 +183,13 @@ $(document).ready(function () {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="about.html">About Me</a>
+  <a href="about.html">Projects &amp; Homeworks</a>
 </li>
 <li>
-  <a href="mailto:&lt;jl5025@cumc.columbia.edu&gt;">
+  <a href="teaching.html">About Me</a>
+</li>
+<li>
+  <a href="mailto:&lt;jl5025@columbia.edu&gt;">
     <span class="fa fa-envelope fa-lg"></span>
      
   </a>
@@ -208,9 +214,21 @@ $(document).ready(function () {
 </div>
 
 
-<div id="this-is-my-personal-webpage" class="section level3">
-<h3>This is my personal webpage!</h3>
-<p><img src="picture.JPG" style="width:80%"></p>
+<p><link rel="stylesheet" href="academicons.css"/> <link rel="stylesheet" href="styles.css" type="text/css"></p>
+<div id="biostatistics-m.s.-student-columbia-university-mailman-school-of-public-health" class="section level3">
+<h3>Biostatistics M.S. student, Columbia University Mailman School of Public Health</h3>
+<p><br><img src="picture.JPG" style="width:60%"><br></p>
+<p>I obtained my B.A. in Psychology and Economics from <a href="https://www.washington.edu/">University of Washington</a> in 2013. I am pursuing a M.S. degree in Biostatistics from Columbia University. Relevant courses includes Biostatistical Methods, Data Science, Statistical Learning &amp; Data Mining, Statistical Inference. I have programming skills with R and SAS.</p>
+<p>My resume is available <a href="Downloads/JL_resume.pdf">here</a>.</p>
+<p><br></p>
+<div id="contact-information" class="section level4">
+<h4>Contact Information</h4>
+<p>Jiaqi Li <a href="http://www.mailman.columbia.edu/academic-departments/biostatistics">Department of Biostatistics</a><br />
+<a href="http://www.mailman.columbia.edu/">Columbia Mailman School of Public Health</a><br />
+100 Haven Ave, Tower 3 17F<br />
+New York, New York 10032</p>
+<p>Email: <a href="mailto:jl5025@columbia.edu">jl5025@columbia.edu</a></p>
+</div>
 </div>
 
 

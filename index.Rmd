@@ -2,7 +2,26 @@
 title: "Jiaqi Li"
 ---
 
-### This is my personal webpage!
+<link rel="stylesheet" href="academicons.css"/>
+<link rel="stylesheet" href="styles.css" type="text/css">
 
 
-<img src="picture.JPG" style="width:80%">
+### Biostatistics M.S. student, Columbia University Mailman School of Public Health
+
+<br><img src="picture.JPG" style="width:60%"><br>
+
+I obtained my B.A. in Psychology and Economics from [University of Washington](https://www.washington.edu/) in 2013. I am pursuing a M.S. degree in Biostatistics from Columbia University. Relevant courses includes Biostatistical Methods, Data Science, Statistical Learning & Data Mining, Statistical Inference. I have programming skills with R and SAS. 
+
+My resume is available [here](Downloads/JL_resume.pdf).
+
+<br>
+
+#### Contact Information
+
+Jiaqi Li
+[Department of Biostatistics](http://www.mailman.columbia.edu/academic-departments/biostatistics)  
+[Columbia Mailman School of Public Health](http://www.mailman.columbia.edu/)  
+100 Haven Ave, Tower 3 17F  
+New York, New York 10032  
+
+Email: [jl5025@columbia.edu](mailto:jl5025@columbia.edu) 
