@@ -7,7 +7,7 @@ title: "Projects and Homeworks"
 ***
 ##### Biostatistical Methods
 *	Identified variables associated with hospital length of stay (LoS) patterns to construct a predictive model using Multiple Linear Regression with R and SAS.
-*	Ran rigorous model diagnostics (influential point, collinearity, interaction...) and model validation (Cross-Validation, bootstrap).
+*	Ran rigorous model diagnostics (check influential point, collinearity, interaction, etc.) and model validation (Cross-Validation, bootstrap).
 * Report is available [here](Downloads/BMI_Final_Project_Report.pdf), and repo is available [here](https://github.com/ljq312/BMI_FinalProject)
 
     

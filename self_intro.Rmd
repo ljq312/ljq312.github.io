@@ -1,0 +1,10 @@
+---
+title: "About Me"
+output: html_document
+---
+CAN'T stay in the city all the time!\
+NEED to go outside and have some fresh air!
+
+<br><img src="pics/IMG_0436.JPG" style="width:40%"><br>
+<br><img src="pics/IMG_0316.JPG" style="width:40%"><br>
+<br><img src="pics/ski.jpg" style="width:40%"><br>
