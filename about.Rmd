@@ -24,3 +24,6 @@ title: "Projects and Homeworks"
 ##### Data Science - *Shiny Dashboard with NYC restaurant inspection data*
 * Created a interactable [shiny dashboard](https://ljq312.shinyapps.io/p8105_hw6_jl5025_problem2/) to visualize the NYC restaurant grade and violation description based on boro and cuisine type. 
 
+##### Statistical Learning - *Classification*
+* Classify market returns (positive or negative) for the S&P 500 stock index using Logistic Regression, Linear Discriminant Analysis, Quadratic Diescriminant Analysis, K-Nearest-Neighbor classifier. Report is available [here](Downloads/hw2.html)
+
