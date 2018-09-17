@@ -17,6 +17,19 @@ title: "Projects and Homeworks"
 *	Created a [Github website](https://tuyuqi.github.io/delay_flight_website/index.html) to display project findings, including a [report](https://tuyuqi.github.io/delay_flight_website/flight_delay.html), [video](https://www.youtube.com/watch?v=smI6NE5xw4Y), and interactive data visuals made by Plotly and ggplot.
 
 
+##### SAS - *Using SAS to compare effects of LAGB and RYGB, and examine associations in weight loss*
+* Built a model to identify measured variables associated with weight loss using multiple linear regression.
+* Compared obesity treatments effect overtime using longitudinal data analysis.
+* Created descriptive statistics for relevant variables.
+* The post is available [here](Downloads/P6110_FinalProject_JL.pdf)
+
+
+##### Statistical Learning - *Using statistical learning to analyze Airbnb listings*
+* Built a predictive model of rental price; model was selected from various statistical learning algorithms of linear and nonlinear regression based on performance (using methods include ridge, lasso, PLS, splines, GAM).
+* Classified high/low review score by selecting model from logistic regression, LDA, QDA, tree methods, and SVM.
+* The report is available [here](Downloads/DS2_final_report.pdf)
+
+
 <br>
 
 ### Homeworks
