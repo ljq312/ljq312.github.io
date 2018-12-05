@@ -5,29 +5,39 @@ title: "Projects and Homeworks"
 
 ### Projects
 ***
-##### Biostatistical Methods
-*	Identified variables associated with hospital length of stay (LoS) patterns to construct a predictive model using Multiple Linear Regression with R and SAS.
-*	Ran rigorous model diagnostics (check influential point, collinearity, interaction, etc.) and model validation (Cross-Validation, bootstrap).
-* Report is available [here](Downloads/BMI_Final_Project_Report.pdf), and repo is available [here](https://github.com/ljq312/BMI_FinalProject)
 
-    
-##### Data Science - *Flight Delay Patterns*
-*	Explored factors associated with flight delay patterns from 2012 through 2016 using R.
+##### Flight Delay Patterns - *R*
+*	Explored factors associated with flight delay patterns from 2012 through 2016.
 *	Manipulated 2.8GB of data, and analyzed 30 million flights.
 *	Created a [Github website](https://tuyuqi.github.io/delay_flight_website/index.html) to display project findings, including a [report](https://tuyuqi.github.io/delay_flight_website/flight_delay.html), [video](https://www.youtube.com/watch?v=smI6NE5xw4Y), and interactive data visuals made by Plotly and ggplot.
 
 
-##### SAS - *Using SAS to compare effects of LAGB and RYGB, and examine associations in weight loss*
+##### Examining the Impact of the New York Advantage Program on the NYC Homeless Population - *Python*
+*	Evaluated the effect of Advantage program on the number of NYC homeless people by constructing a linear regression model. The model explained 85% of the number of homeless people variation.
+* Manipulated data and built data visualization to help understanding data change patterns and how the number of the homeless related to other variables.
+* Report is available [here](Downloads/HPMNP8596_final_project.html)
+
+
+##### Using statistical learning to analyze Airbnb listings - *R*
+* Built a predictive model of rental price; model was selected from various statistical learning algorithms of linear and nonlinear regression based on performance (using methods include ridge, lasso, PLS, splines, GAM).
+* Classified high/low review score by selecting model from logistic regression, LDA, QDA, tree methods, and SVM.
+* Report is available [here](Downloads/DS2_final_report.pdf)
+
+
+
+##### Biostatistical Methods - *R*
+*	Identified variables associated with hospital length of stay (LoS) patterns to construct a predictive model using Multiple Linear Regression.
+*	Ran rigorous model diagnostics (check influential point, collinearity, interaction, etc.) and model validation (Cross-Validation, bootstrap).
+* Report is available [here](Downloads/BMI_Final_Project_Report.pdf), and repo is available [here](https://github.com/ljq312/BMI_FinalProject)
+
+
+
+##### Comparing effects of LAGB and RYGB, and examine associations in weight loss - *SAS*
 * Built a model to identify measured variables associated with weight loss using multiple linear regression.
 * Compared obesity treatments effect overtime using longitudinal data analysis.
 * Created descriptive statistics for relevant variables.
 * Post is available [here](Downloads/P6110_FinalProject_JL.pdf)
 
-
-##### Statistical Learning - *Using statistical learning to analyze Airbnb listings*
-* Built a predictive model of rental price; model was selected from various statistical learning algorithms of linear and nonlinear regression based on performance (using methods include ridge, lasso, PLS, splines, GAM).
-* Classified high/low review score by selecting model from logistic regression, LDA, QDA, tree methods, and SVM.
-* Report is available [here](Downloads/DS2_final_report.pdf)
 
 
 <br>
