@@ -13,8 +13,8 @@ title: "Projects and Homeworks"
 
 
 ##### Examining the Impact of the New York Advantage Program on the NYC Homeless Population - *Python*
-*	Evaluated the effect of Advantage program on the number of NYC homeless people by constructing a linear regression model. The model explained 85% of the number of homeless people variation.
-* Manipulated data and built data visualization to help understanding data change patterns and how the number of the homeless related to other variables.
+*	Evaluated the effect of Advantage program on the number of NYC homeless people by constructing a linear regression model.
+* Manipulated data and built data visualization to help understand patterns of change in the NYC homeless population and how patterns related to other relevant variables (population growth, policy changes, seasonal changes, etc.)
 * Report is available [here](Downloads/HPMNP8596_final_project.html)
 
 
